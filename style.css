@@ -1,0 +1,36 @@
+.container {
+  width: 80%;
+  margin: auto;
+  background-color: whitesmoke;
+  padding: 1rem;
+  height: 50vh;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.sub-container {
+  background-color: tomato;
+  border-radius: 10px;
+  width: 60vw;
+  margin: auto;
+  padding: 1rem;
+}
+
+button {
+  margin-top: 1rem;
+  margin: auto;
+  padding: 0.4rem;
+}
+
+input,
+label {
+  display: block;
+  margin: auto;
+  color: navy;
+}
+
+p {
+  text-align: center;
+  color: #3d33c9;
+  font-weight: bold;
+}
