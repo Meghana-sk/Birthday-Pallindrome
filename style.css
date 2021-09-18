@@ -3,7 +3,7 @@
   margin: auto;
   background-color: whitesmoke;
   padding: 1rem;
-  height: 50vh;
+  height: 80vh;
   border-radius: 10px;
   text-align: center;
 }
@@ -33,4 +33,31 @@ p {
   text-align: center;
   color: #3d33c9;
   font-weight: bold;
+}
+
+.social-media {
+  list-style-type: none;
+}
+
+li a {
+  text-decoration: none;
+}
+
+li {
+  display: inline;
+  margin-left: 30%;
+}
+
+footer {
+  width: 80%;
+  margin: auto;
+  background-color: tomato;
+  padding: 1rem;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+#footer-text {
+  text-align: center;
+  color: whitesmoke;
 }
