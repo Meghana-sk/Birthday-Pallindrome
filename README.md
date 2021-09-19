@@ -2,7 +2,7 @@
 
 #### - It is a web app which takes your birthdate as input and tells you whether the date is a palindrome or not.
 
-#### - Pallindrome check isdone for the following date formats (Y-YEAR, M-MONTH, D-DATE)
+#### - Pallindrome check is done for the following date formats (Y-YEAR, M-MONTH, D-DATE)
 
 - DDMMYYYY
 - YYYYMMDD

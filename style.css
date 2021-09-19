@@ -61,3 +61,13 @@ footer {
   text-align: center;
   color: whitesmoke;
 }
+
+#date-formats {
+  display: block;
+  margin: auto;
+}
+
+.dateforms {
+  margin: auto;
+  display: block;
+}
